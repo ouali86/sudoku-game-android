@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sudoku</string>
+    <string name="title">Projet Sudoku!</string>
+    <string name="btn_jouer">JOUER</string>
+    <string name="btn_highscores">HIGHSCORES</string>
+    <string name="btn_quitter">QUITTER</string>
+    <string name="btn_Apropos">A  PROPOS</string>
+    <string name="btn_son">activer son</string>
+    <string name="btn_continuer">CONTINUER</string>
+    <string name="about">A PROPOS</string>
+    <string name="title_activity_sodoku">Sodoku</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_text">\
+SUDOKU est un jeu chronométré où une grille pré partiellement remplie est à
+remplir dans le temps le plus court en respectant la règle suivante chaque
+ligne, chaque colonne et chaque sous carré contient une et une seule fois les
+chiffres de 1 à 9.
+La grille contient au démarrage quelques chiffres positionnés dans une des 81
+cases de la matrice 9x9, ils servent d’indices pour compléter le puzzle.
+ \n \n \n \n
+ 
+Realiser Par OUALI Nassim
+            et Anass ETTOUHAMI
+            
+</string>
+    <string name="title_activity_sudoku">Sudoku</string>
+    <string name="title_activity_grille_sudoku">Grille_sudoku</string>
+    <string name="title_activity_touche_">Touche_Activity</string>
+    <string name="title_activity_score">Score</string>
+    <string name="title_activity_a_propos">A_propos</string>
+
+</resources>
